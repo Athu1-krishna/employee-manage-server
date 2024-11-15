@@ -1,0 +1,18 @@
+{
+  "empDetails": [
+    {
+      "id": "8d24",
+      "empId": "101",
+      "name": "melbin k biju",
+      "email": "melbin@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "1fd1",
+      "empId": "102",
+      "name": "Melbin k biju",
+      "email": "mel@gmail.com",
+      "status": "Inactive"
+    }
+  ]
+}
